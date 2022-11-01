@@ -1,30 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 .nav-bar {
-    overflow: hidden;
     display: flex;
     justify-content: space-between;
-    background-color: #4D4D4D;
+    background-color: #292929;
     padding: 0, 10px, 0, 10px;
     font-family: 'Bebas Neue';
-    font-size: large;
-    border-radius: 4px;
+    font-size: 25px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #808080;
+    max-width: 75%;
+    margin: auto;
 }
 
-.nav-title {
-    display: flex;
-    align-items: center;
-    padding-left: 10px;
+.nav-logo {
+    padding: 14px 0px 0px 15px;
+    width: 151px;
+    height: 57px;
 }
+
 
 .nav-items {
     list-style: none;
     display: flex;
+    padding-right: 10px;
 }
 
 .nav-items > li {
-    padding: 10px;
-    font-size: large;
+    padding: 0px 15px 0px 15px;
+    font-size: 25px;
 }
 
 a {
@@ -33,5 +39,6 @@ a {
 }
 
 a:hover {
-    color: gray;
+    text-decoration: underline;
+    text-decoration-color: #ffa31a;
 }
