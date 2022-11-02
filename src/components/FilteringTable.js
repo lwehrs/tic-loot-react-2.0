@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { useTable, useGlobalFilter } from 'react-table'
+import { useTable, useGlobalFilter, useSortBy } from 'react-table'
 import MOCK_DATA from './DATA.json'
 import { COLUMNS } from './columns'
 import "../css/Table.css"
@@ -21,7 +21,7 @@ export const FilteringTable = () => {
     } = useTable({
         columns,
         data
-    }, useGlobalFilter)
+    }, useGlobalFilter, useSortBy)
 
     const { globalFilter } = state
 
@@ -33,8 +33,11 @@ export const FilteringTable = () => {
                 {headerGroups.map((headerGroup) => (
                     <tr {...headerGroup.getHeaderGroupProps}>
                         {headerGroup.headers.map((column) => (
-                            <th {...column.getHeaderProps}>
+                            <th {...column.getHeaderProps(column.getSortByToggleProps())}>
                                 {column.render('Header')}
+                                <span>
+                                    {column.isSorted ? (column.isSortedDesc ? ' ⬇️' : ' ⬆️') : ''}
+                                </span>
                             </th>
                         ))}
                     </tr>
