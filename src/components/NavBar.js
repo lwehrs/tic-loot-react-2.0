@@ -1,5 +1,4 @@
 import '../css/NavBar.css'
-// import logo from '../img/logo-sm.jpg'
 
 export default function NavBar() {
     return(
