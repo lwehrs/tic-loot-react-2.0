@@ -1,3 +1,13 @@
 .App {
   text-align: center;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(../img/mad_emoji.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: luminosity;
 }

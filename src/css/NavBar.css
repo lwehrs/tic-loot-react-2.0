@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 .nav-bar {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     background-color: #292929;
     padding: 0px, 10px, 0, 10px;
@@ -17,12 +19,19 @@
     margin-bottom: 40px;
 }
 
-.nav-logo {
-    padding: 14px 0px 0px 15px;
-    width: 151px;
-    height: 57px;
+.nav-logo-text {
+    padding: 0px 0px 0px 15px;
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    word-spacing: 5px;
 }
 
+.nav-logo-text > h3 {
+    background: linear-gradient(to right, #ffa31a00, #ffa31a);
+    background-position: 0 100%;
+    background-size: 100% 2px;
+    background-repeat: repeat-x;
+}
 
 .nav-items {
     list-style: none;
