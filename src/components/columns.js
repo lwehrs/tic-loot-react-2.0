@@ -1,27 +1,19 @@
 export const COLUMNS = [
     {
-        Header: 'Id',
-        accessor: 'id',
+        Header: 'Player',
+        accessor: 'player',
     },
     {
-        Header: 'First Name',
-        accessor: 'first_name',
+        Header: 'Item',
+        accessor: 'itemName',
     },
     {
-        Header: 'Last Name',
-        accessor: 'last_name',
+        Header: 'Response',
+        accessor: 'response',
     },
     {
-        Header: 'Date of Birth',
-        accessor: 'date_of_birth',
-    },
-    {
-        Header: 'Country',
-        accessor: 'country',
-    },
-    {
-        Header: 'Phone',
-        accessor: 'phone',
+        Header: 'Date',
+        accessor: 'date',
     },
     
 ]
