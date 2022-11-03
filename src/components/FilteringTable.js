@@ -4,6 +4,7 @@ import MOCK_DATA from './DATA.json'
 import { COLUMNS } from './columns'
 import "../css/Table.css"
 import { GlobalFilter } from './GlobalFilter'
+import TableViusals from './TableVIsual'
 
 export const FilteringTable = () => {
 
@@ -49,7 +50,13 @@ export const FilteringTable = () => {
                     return (
                         <tr {...row.getRowProps()}>
                             {row.cells.map(cell => {
-                                return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
+                                // console.log(row.values.player);
+                                // console.log(row.values.itemName);
+                                // console.log(row.values.response);
+                                // console.log(row.values.date);
+                                // console.log(row.values);
+
+                                return(TableViusals(cell))
                             })}
                         </tr>
                     )
