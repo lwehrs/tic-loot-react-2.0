@@ -24,7 +24,7 @@ table tr:nth-child(odd) {
 }
 
 table tr:hover {
-    background-color: #696969;
+    background-color: #3f3f3f;
 } 
 
 table th {
