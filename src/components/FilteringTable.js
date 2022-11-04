@@ -4,7 +4,7 @@ import DATA from './DATA.json'
 import { COLUMNS } from './columns'
 import "../css/Table.css"
 import { GlobalFilter } from './GlobalFilter'
-import TableViusals from './TableVIsual'
+import CellStyler from './CellStyler'
 
 export const FilteringTable = () => {
 
@@ -50,7 +50,7 @@ export const FilteringTable = () => {
                     return (
                         <tr {...row.getRowProps()}>
                             {row.cells.map(cell => {
-                                return(TableViusals(cell))
+                                return(CellStyler(cell))
                             })}
                         </tr>
                     )
