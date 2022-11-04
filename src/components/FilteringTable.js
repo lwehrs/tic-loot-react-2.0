@@ -49,7 +49,7 @@ export const FilteringTable = () => {
                     prepareRow(row)
                     return (
                         <tr {...row.getRowProps()}>
-                            {row.cells.map(cell => {
+                            {row.cells.map((cell) => {
                                 return(CellStyler(cell))
                             })}
                         </tr>

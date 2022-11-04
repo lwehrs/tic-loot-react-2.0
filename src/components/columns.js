@@ -8,6 +8,10 @@ export const COLUMNS = [
         accessor: 'itemName',
     },
     {
+        Header: 'Slot',
+        accessor: 'equipLoc',
+    },
+    {
         Header: 'Response',
         accessor: 'response',
     },

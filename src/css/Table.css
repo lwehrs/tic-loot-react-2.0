@@ -7,12 +7,18 @@ table {
     border-width: 1px;
     border-color: #808080;
     color: white;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 table td,
 table th {
     border: 1px solid #3A3E41;
     padding: 8px;
+    text-shadow: none;
+}
+
+table td {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 table tr:nth-child(even) {
@@ -85,7 +91,27 @@ table th {
     color: #C69B6D;
 }
 
+.item {
+    text-align: start;
+    padding-left: 10px;
+}
+
 .item-link {
-    font-size: 14px;
-    text-align: left;
+    font-size: 16px;
+    color: #A335EE;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+.bis {
+    color: rgb(0, 243, 0);
+}
+.major {
+    color: rgb(255, 255, 30);
+}
+.minor {
+    color: rgb(255, 123, 0);
+}
+.greed {
+    color: red;
 }
