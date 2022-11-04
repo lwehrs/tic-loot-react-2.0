@@ -44,12 +44,12 @@
     font-size: 25px;
 }
 
-a {
+.nav-items > li > a {
     color: white;
     text-decoration: none;
 }
 
-a:hover {
+.nav-items > li > a:hover {
     text-decoration: underline;
     text-decoration-color: #ffa31a;
 }

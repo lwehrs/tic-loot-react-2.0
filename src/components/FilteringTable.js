@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 import { useTable, useGlobalFilter, useSortBy } from 'react-table'
-import MOCK_DATA from './DATA.json'
+import DATA from './DATA.json'
 import { COLUMNS } from './columns'
 import "../css/Table.css"
 import { GlobalFilter } from './GlobalFilter'
@@ -9,7 +9,7 @@ import TableViusals from './TableVIsual'
 export const FilteringTable = () => {
 
     const columns = useMemo(() => COLUMNS, [])
-    const data = useMemo(() => MOCK_DATA, [])
+    const data = useMemo(() => DATA, [])
 
     const {
         getTableProps,
@@ -50,12 +50,6 @@ export const FilteringTable = () => {
                     return (
                         <tr {...row.getRowProps()}>
                             {row.cells.map(cell => {
-                                // console.log(row.values.player);
-                                // console.log(row.values.itemName);
-                                // console.log(row.values.response);
-                                // console.log(row.values.date);
-                                // console.log(row.values);
-
                                 return(TableViusals(cell))
                             })}
                         </tr>

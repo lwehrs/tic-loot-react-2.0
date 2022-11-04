@@ -54,33 +54,38 @@ table th {
     color: white;
 }
 
-.death-knight {
+.DEATHKNIGHT {
     color: #C41E3A;
 }
-.druid {
+.DRUID {
     color: #FF7C0A;
 }
-.hunter {
+.HUNTER {
     color: #AAD372;
 }
-.mage {
+.MAGE {
     color: #3FC7EB;
 }
-.paladin {
+.PALADIN {
     color: #F48CBA
 }
-.priest {
+.PRIEST {
     color: #FFFFFF;
 }
-.rogue {
+.ROGUE {
     color: #FFF468;
 }
-.shaman {
+.SHAMAN {
     color: #0070DD;
 }
-.warlock {
+.WARLOCK {
     color: #8788EE;
 }
-.warrior{
+.WARRIOR{
     color: #C69B6D;
+}
+
+.item-link {
+    font-size: 14px;
+    text-align: left;
 }
