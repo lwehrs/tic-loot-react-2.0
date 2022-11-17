@@ -684,7 +684,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Hands",
     "note": "using heros gloves",
     "owner": "Dixmcgee",
     "itemName": "Gauntlets of the Lost Protector"
@@ -707,7 +707,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Legs",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Legplates of the Lost Protector"
@@ -730,7 +730,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Guns",
-    "equipLoc": "",
+    "equipLoc": "Ranged",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Envoy of Mortality"
@@ -1328,7 +1328,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "BiS because I'm planning to use non-set helm that I have already",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Vanquisher"
@@ -1466,7 +1466,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Shoulder",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Mantle of the Lost Vanquisher"
@@ -1489,7 +1489,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Quest",
-    "equipLoc": "",
+    "equipLoc": "Neck",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Heroic Key to the Focusing Iris"
@@ -1535,7 +1535,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Vanquisher"
@@ -1949,7 +1949,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Mount",
-    "equipLoc": "",
+    "equipLoc": "Mount",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Reins of the Twilight Drake"
@@ -2018,7 +2018,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Legs",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Legplates of the Lost Conqueror"
@@ -2133,7 +2133,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Legs",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Legplates of the Lost Vanquisher"
@@ -2202,7 +2202,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Hands",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Gauntlets of the Lost Vanquisher"
@@ -2363,7 +2363,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Legs",
     "note": "shadow good",
     "owner": "Dixmcgee",
     "itemName": "Legplates of the Lost Conqueror"
@@ -2432,7 +2432,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "shadow os",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Conqueror"
@@ -2455,7 +2455,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Shoulder",
     "note": "shadow? idk",
     "owner": "Dixmcgee",
     "itemName": "Mantle of the Lost Conqueror"
@@ -2478,7 +2478,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Other",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Large Satchel of Spoils"
@@ -2708,7 +2708,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Head",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Crown of the Lost Vanquisher"
@@ -3053,7 +3053,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Quest",
-    "equipLoc": "",
+    "equipLoc": "Neck",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Heroic Key to the Focusing Iris"
@@ -3421,7 +3421,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Head",
     "note": "4 set and overall BiS",
     "owner": "Kel'Thuzad",
     "itemName": "Crown of the Lost Conqueror"
@@ -3950,7 +3950,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Wands",
-    "equipLoc": "",
+    "equipLoc": "Ranged",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Fading Glow"
@@ -3996,7 +3996,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Head",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Crown of the Lost Conqueror"
@@ -4203,7 +4203,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Conqueror"
@@ -4295,7 +4295,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Wands",
-    "equipLoc": "",
+    "equipLoc": "Ranged",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Gemmed Wand of the Nerubians"
@@ -4755,7 +4755,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Shoulder",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Mantle of the Lost Conqueror"
@@ -5376,7 +5376,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Conqueror"
@@ -5399,7 +5399,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Head",
     "note": "",
     "owner": "Kel'Thuzad",
     "itemName": "Crown of the Lost Conqueror"
@@ -6572,7 +6572,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Legs",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Legplates of the Lost Protector"
@@ -6664,7 +6664,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Hands",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Gauntlets of the Lost Protector"
@@ -7078,7 +7078,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Shoulder",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Mantle of the Lost Vanquisher"
@@ -7101,7 +7101,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Hands",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Gauntlets of the Lost Vanquisher"
@@ -7124,7 +7124,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Other",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Large Satchel of Spoils"
@@ -7975,7 +7975,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Wands",
-    "equipLoc": "",
+    "equipLoc": "Ranged",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Gemmed Wand of the Nerubians"
@@ -8251,7 +8251,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Chest",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Breastplate of the Lost Vanquisher"
@@ -8274,7 +8274,7 @@
     "isAwardReason": "false",
     "rollType": "normal",
     "subType": "Junk",
-    "equipLoc": "",
+    "equipLoc": "Shoulder",
     "note": "",
     "owner": "Dixmcgee",
     "itemName": "Mantle of the Lost Vanquisher"
